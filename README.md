@@ -17,7 +17,7 @@ End Date: 2009/07/07
 
 ```
 
-***File input mode***
+**File input mode**
 
 See attached data file for format
 
