@@ -14,7 +14,6 @@ End Date: 2009/07/07
 
 
 49328 GenBank Entries for Staphylococcus in that date range. Subject to addition of new entries
-
 ```
 
 **File input mode**
@@ -27,7 +26,6 @@ Enter file name: input_file_gbk.txt
 
 
 49328 GenBank Entries for Staphylococcus in that date range. Subject to addition of new entries
-
 ```
 
 
