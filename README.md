@@ -18,7 +18,9 @@ End Date: 2009/07/07
 ```
 
 ***File input mode***
+
 See attached data file for format
+
 ```
 Which input mode? Manual input = 0, File input = 1: 1
 Enter file name: input_file_gbk.txt
